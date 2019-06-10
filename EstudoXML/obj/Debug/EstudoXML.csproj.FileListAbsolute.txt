@@ -1,0 +1,10 @@
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoXML\bin\Debug\EstudoXML.exe.config
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoXML\bin\Debug\EstudoXML.exe
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoXML\bin\Debug\EstudoXML.pdb
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoXML\obj\Debug\EstudoXML.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoXML\obj\Debug\EstudoXML.frmAgenda.resources
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoXML\obj\Debug\EstudoXML.Properties.Resources.resources
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoXML\obj\Debug\EstudoXML.csproj.GenerateResource.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoXML\obj\Debug\EstudoXML.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoXML\obj\Debug\EstudoXML.exe
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoXML\obj\Debug\EstudoXML.pdb

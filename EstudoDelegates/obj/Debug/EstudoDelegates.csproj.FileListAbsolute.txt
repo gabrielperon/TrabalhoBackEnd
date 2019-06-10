@@ -1,0 +1,20 @@
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoDelegates\bin\Debug\EstudoDelegates.exe.config
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoDelegates\bin\Debug\EstudoDelegates.exe
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoDelegates\bin\Debug\EstudoDelegates.pdb
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.frmCalculadora.resources
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.Properties.Resources.resources
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.csproj.GenerateResource.cache
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.exe
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.pdb
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoDelegates\bin\Debug\EstudoDelegates.exe.config
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoDelegates\bin\Debug\EstudoDelegates.exe
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoDelegates\bin\Debug\EstudoDelegates.pdb
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.frmCalculadora.resources
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.Properties.Resources.resources
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.csproj.GenerateResource.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.exe
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoDelegates\obj\Debug\EstudoDelegates.pdb

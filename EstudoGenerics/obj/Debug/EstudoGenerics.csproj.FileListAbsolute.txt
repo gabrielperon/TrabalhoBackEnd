@@ -1,0 +1,21 @@
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe.config
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.pdb
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.exe
+C:\Users\gabriel.ferreira\source\repos\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.pdb
+C:\Users\gabriel.ferreira\Desktop\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe.config
+C:\Users\gabriel.ferreira\Desktop\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe
+C:\Users\gabriel.ferreira\Desktop\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.pdb
+C:\Users\gabriel.ferreira\Desktop\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira\Desktop\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\Desktop\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.exe
+C:\Users\gabriel.ferreira\Desktop\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.pdb
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe.config
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.exe
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\bin\Debug\EstudoGenerics.pdb
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.exe
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\EstudoGenerics\obj\Debug\EstudoGenerics.pdb

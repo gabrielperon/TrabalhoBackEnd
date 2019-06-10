@@ -1,0 +1,17 @@
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.ADO\bin\Debug\netcoreapp2.2\Agenda.ADO.deps.json
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.ADO\bin\Debug\netcoreapp2.2\Agenda.ADO.dll
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.ADO\bin\Debug\netcoreapp2.2\Agenda.ADO.pdb
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.ADO\obj\Debug\netcoreapp2.2\Agenda.ADO.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.ADO\obj\Debug\netcoreapp2.2\Agenda.ADO.AssemblyInfoInputs.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.ADO\obj\Debug\netcoreapp2.2\Agenda.ADO.AssemblyInfo.cs
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.ADO\obj\Debug\netcoreapp2.2\Agenda.ADO.dll
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.ADO\obj\Debug\netcoreapp2.2\Agenda.ADO.pdb
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.ADO\bin\Debug\netcoreapp2.2\Agenda.ADO.deps.json
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.ADO\bin\Debug\netcoreapp2.2\Agenda.ADO.dll
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.ADO\bin\Debug\netcoreapp2.2\Agenda.ADO.pdb
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.ADO\obj\Debug\netcoreapp2.2\Agenda.ADO.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.ADO\obj\Debug\netcoreapp2.2\Agenda.ADO.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.ADO\obj\Debug\netcoreapp2.2\Agenda.ADO.AssemblyInfoInputs.cache
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.ADO\obj\Debug\netcoreapp2.2\Agenda.ADO.AssemblyInfo.cs
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.ADO\obj\Debug\netcoreapp2.2\Agenda.ADO.dll
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.ADO\obj\Debug\netcoreapp2.2\Agenda.ADO.pdb

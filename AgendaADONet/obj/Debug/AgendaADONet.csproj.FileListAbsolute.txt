@@ -1,0 +1,22 @@
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\AgendaADONet\bin\Debug\AgendaADONet.exe.config
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\AgendaADONet\bin\Debug\AgendaADONet.exe
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\AgendaADONet\bin\Debug\AgendaADONet.pdb
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.frmAgenda.resources
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.Properties.Resources.resources
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.csproj.GenerateResource.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.exe
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.pdb
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.frmIncluirAlterarContato.resources
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\AgendaADONet\bin\Debug\AgendaADONet.dll.config
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\AgendaADONet\bin\Debug\AgendaADONet.dll
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\AgendaADONet\bin\Debug\AgendaADONet.pdb
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.frmAgenda.resources
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.frmIncluirAlterarContato.resources
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.Properties.Resources.resources
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.csproj.GenerateResource.cache
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.dll
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\AgendaADONet\obj\Debug\AgendaADONet.pdb

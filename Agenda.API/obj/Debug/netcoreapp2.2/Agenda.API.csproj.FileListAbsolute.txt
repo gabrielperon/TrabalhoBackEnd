@@ -1,0 +1,34 @@
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.API.deps.json
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.API.runtimeconfig.json
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.API.runtimeconfig.dev.json
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.API.dll
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.RazorAssemblyInfo.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.RazorAssemblyInfo.cs
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.AssemblyInfoInputs.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.AssemblyInfo.cs
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.RazorTargetAssemblyInfo.cache
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.API.pdb
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.dll
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.pdb
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.ADO.dll
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.ADO.pdb
+C:\Users\gabriel.ferreira\Desktop\CursosKognit\cursin Treinaweb\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.csproj.CopyComplete
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.API.deps.json
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.API.runtimeconfig.json
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.API.runtimeconfig.dev.json
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.API.dll
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.API.pdb
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.ADO.dll
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\bin\Debug\netcoreapp2.2\Agenda.ADO.pdb
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.csprojAssemblyReference.cache
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.RazorAssemblyInfo.cache
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.RazorAssemblyInfo.cs
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.AssemblyInfoInputs.cache
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.AssemblyInfo.cs
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.RazorTargetAssemblyInfo.cache
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.csproj.CopyComplete
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.dll
+C:\Users\gabriel.ferreira\Desktop\Treinaweb.CsharpIntermediario\Agenda.API\obj\Debug\netcoreapp2.2\Agenda.API.pdb
